@@ -1,5 +1,6 @@
 # dmd
 >**No society can legitimately call itself civilised if a sick person is denied medical aid because of lack of means.**
+>
 >Aneurin Bevan, _In Place of Fear_
 
 NHS Dictionary of medicines and devices (dm+d) SQL parser
